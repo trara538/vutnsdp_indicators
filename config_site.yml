@@ -201,3 +201,12 @@ breadcrumbs:
   disclaimer:
       phase: My phase
       message: My message
+      
+  goals_page:
+      title: My goals page
+      description: Vanuatu 2030 charts the country's vision and overarching policy framework for achieving a Stable, Sustainable and Prosperous Vanuatu within the next ten years,
+      and in doing so sets out the national priorities and context for the implementation of the new global Sustainable Development Goals over the same period.
+      The national vision and the framework for action outlined in this plan have been informed by the priorities voiced by our people, their community and elected 
+      representatives, the private sector and civil society over the course of a three-year consultation programme undertaken across the whole country.
+      Our united voices articulate what we want for ourselves, our children, future generations and our country. This is an ambitious plan. The government is committed to its 
+      implementation and monitoring, and to reporting on its progress. Success, however, is dependent on collective ownership of the plan and collaborative partnerships between the people, government, community leaders, businesses and civil society.
