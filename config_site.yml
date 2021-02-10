@@ -112,6 +112,8 @@ menu:
     translation_key: menu.faq
   - path: /news
     translation_key: menu.updates
+  - path: /https://vnso.gov.vu
+    translation_key: VNSO Website
 
 footer_menu:
   - path: mailto:my-email-address@example.com
