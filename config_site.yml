@@ -200,7 +200,7 @@ breadcrumbs:
   
   disclaimer:
       phase: My phase
-      message: My message
+      message: "My message"
       
   goals_page:
       title: My goals page
