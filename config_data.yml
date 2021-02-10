@@ -104,11 +104,9 @@ reporting_status_extra_fields: []
 # This controls the automatic documentation that is created for your build.
 #
 # This is the logo at the top of the automated documentation pages.
-docs_branding: SDG data build documentation
+docs_branding: "Vanuatu NSDP data build documentation"
 # This displays at the top of the automated documentation homepage.
-docs_intro: This is a list of examples of endpoints and output that are
-  available on this service. Click each of the links below for more information
-  on the available output.
+docs_intro: This is my docs intro.
 docs_subfolder: data-docs
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
