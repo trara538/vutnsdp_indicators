@@ -213,5 +213,5 @@ breadcrumbs:
 
 reporting_status:
     title: My reporting status page
-    description: This should be a link: [link to VNSO](https://vnso.gov.vu) 
+    description: "This should be a link: [link to VNSO](https://vnso.gov.vu)" 
     
